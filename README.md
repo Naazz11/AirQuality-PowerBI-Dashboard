@@ -7,13 +7,13 @@ This project represents interactive Power BI dashboard analyzing air quality dat
 - Focus on real-time, city-wise comparison
 
 **Dashboard Preview**
-![Dashboard Preview](Dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 Tools Used
 **Power BI**
 Dataset: Sample air quality data Tutorial guided by *Pavan Lalwani* on YouTube
 
- 👤 Author
+Author
 **Faryal Naz**  
 [LinkedIn Profile](https://www.linkedin.com/in/faryal-naz)
 
